@@ -6,15 +6,6 @@
       <change afterPath="$PROJECT_DIR$/../P3P4_API_LineTestFrame/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../P3P4_API_LineTestFrame/common/config_utils.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../P3P4_API_LineTestFrame/common/log_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/interfac_request.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itsDemoTest/logs/202010231743_API_TEST_LOG.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itsDemoTest/reports/API_TEST_V1.1/API_TEST_V1.1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../newproject/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../newproject/HomeWork/case_infos.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../newproject/HomeWork/common/__init__.py" afterDir="false" />
@@ -83,7 +74,7 @@
       <change afterPath="$PROJECT_DIR$/../newproject/selenium_frame/webdriver/geckodriver.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,19 +140,19 @@
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Program Files\JetBrains\interfac_request" />
-      <recent name="D:\Program Files\JetBrains\interfac_request\itsDemoTest\testcases" />
-      <recent name="D:\Program Files\JetBrains\interfac_request\itsDemoTest" />
-      <recent name="D:\Program Files\JetBrains\interfac_request\itsDemoTest\comm" />
-      <recent name="D:\Program Files\JetBrains\interfac_request\homework\2020-10-14\itsDemoTest\comm" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Program Files\JetBrains\interfac_request\itsDemoTest" />
       <recent name="D:\Program Files\JetBrains\interfac_request\itsDemoTest\testcases" />
       <recent name="D:\Program Files\JetBrains\interfac_request" />
       <recent name="D:\Program Files\JetBrains\interfac_request\homework\2020-10-11\Demo_api\testcases" />
       <recent name="D:\Program Files\JetBrains\interfac_request\homework\2020-10-11\Demo_api\comm" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files\JetBrains\interfac_request" />
+      <recent name="D:\Program Files\JetBrains\interfac_request\itsDemoTest\testcases" />
+      <recent name="D:\Program Files\JetBrains\interfac_request\itsDemoTest" />
+      <recent name="D:\Program Files\JetBrains\interfac_request\itsDemoTest\comm" />
+      <recent name="D:\Program Files\JetBrains\interfac_request\homework\2020-10-14\itsDemoTest\comm" />
     </key>
   </component>
   <component name="RunManager" selected="Python.run_all_cases">
@@ -413,7 +404,7 @@
       <workItem from="1601185679371" duration="1752000" />
       <workItem from="1601189883241" duration="5837000" />
       <workItem from="1602317771744" duration="105342000" />
-      <workItem from="1603443408688" duration="2790000" />
+      <workItem from="1603443408688" duration="5650000" />
     </task>
     <task id="LOCAL-00001" summary="222">
       <created>1603073074639</created>
@@ -545,10 +536,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1117" y="273" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603265896096" />
-    <state x="451" y="179" key="CommitChangelistDialog2" timestamp="1603446298551">
+    <state x="451" y="179" key="CommitChangelistDialog2" timestamp="1603446361541">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="451" y="179" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603446298551" />
+    <state x="451" y="179" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603446361541" />
     <state x="617" y="163" width="1212" height="759" key="DiffContextDialog" timestamp="1603446183390">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -561,22 +552,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="785" y="434" width="373" height="181" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603444585085" />
-    <state width="1044" height="254" key="GridCell.Tab.0.bottom" timestamp="1603446217844">
+    <state width="1044" height="254" key="GridCell.Tab.0.bottom" timestamp="1603446792695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1044" height="254" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603446217844" />
-    <state width="1044" height="254" key="GridCell.Tab.0.center" timestamp="1603446217843">
+    <state width="1044" height="254" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603446792695" />
+    <state width="1044" height="254" key="GridCell.Tab.0.center" timestamp="1603446792695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1044" height="254" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603446217843" />
-    <state width="1044" height="254" key="GridCell.Tab.0.left" timestamp="1603446217842">
+    <state width="1044" height="254" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603446792695" />
+    <state width="1044" height="254" key="GridCell.Tab.0.left" timestamp="1603446792694">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1044" height="254" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603446217842" />
-    <state width="1044" height="254" key="GridCell.Tab.0.right" timestamp="1603446217844">
+    <state width="1044" height="254" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603446792694" />
+    <state width="1044" height="254" key="GridCell.Tab.0.right" timestamp="1603446792695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1044" height="254" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603446217844" />
+    <state width="1044" height="254" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603446792695" />
     <state width="1587" height="318" key="GridCell.Tab.1.bottom" timestamp="1603443023089">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -605,10 +596,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="664" y="195" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603444781817" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603442758724">
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603446682777">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603442758724" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603446682777" />
     <state x="709" y="171" width="904" height="759" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1603443696139">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
